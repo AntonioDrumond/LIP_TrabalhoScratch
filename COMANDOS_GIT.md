@@ -4,6 +4,7 @@
 
 ### Comandos essenciais git:
 + git clone link -> "Baixa" o repositorio na local q vc ta
++ git status -> Mostra o status
 + git add filename -> Adiciona arquivos ou pastas na staging area
 + git commit -m "descricao do commit" -> Commita tudo na staging area e cria o commit na sua maquina com o comentario q vc escrever
 + git push origin BranchName -> Faz o upload do seu commit para a branch q vc colocar. Usar main para enviar pra branch principal

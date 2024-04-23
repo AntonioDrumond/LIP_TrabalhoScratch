@@ -11,3 +11,5 @@
 + **Movimento:** WASD
 + **Ataque:** Barra de espaço
 + **Loja:** Mouse
+
+<img src="GIF/GameGIF.gif">

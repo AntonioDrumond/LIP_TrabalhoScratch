@@ -5,7 +5,7 @@
 
 <h3>Link do Projeto</h3>
 <ul>
-  <li></li><a href="https://scratch.mit.edu/projects/1006379359/">Scratch</a></li>
+  <li><a href="https://scratch.mit.edu/projects/1006379359/">Scratch</a></li>
 </ul>
 
 ### Descricao do Projeto

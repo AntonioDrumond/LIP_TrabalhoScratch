@@ -4,7 +4,9 @@
 + Davi Mourao de Meira
 
 <h3>Link do Projeto</h3>
-+ <a href="https://scratch.mit.edu/projects/1006379359/">Scratch</a>
+<ul>
+  <li></li><a href="https://scratch.mit.edu/projects/1006379359/">Scratch</a></li>
+</ul>
 
 ### Descricao do Projeto
 + O jogo "Frrog Game" foi desenvolvido como parte do projeto para a materia LIP, no curso de ciencias da computacao da PUC Minas. Se trata de um jogo de ação, no qual o jogador luta contra monstros e coleta moedas para comprar upgrades.
